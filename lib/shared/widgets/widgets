@@ -1,0 +1,3 @@
+widgets/: Contém widgets reutilizáveis e genéricos que podem ser 
+usados em diferentes partes do app (como botões personalizados, 
+campos de texto, etc.).

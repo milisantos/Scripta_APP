@@ -1,0 +1,5 @@
+components/: Similar aos widgets, mas pode se referir a 
+componentes mais complexos ou agrupamentos de widgets que são reutilizados 
+em várias telas.
+
+-> Bottom nav bar
